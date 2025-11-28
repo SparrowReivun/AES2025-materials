@@ -1,0 +1,10 @@
+librosa==0.10.2.post1
+pandas==2.2.2
+numpy==1.26.4
+crepe==0.0.16
+torch
+torchaudio
+pedalboard==0.9.14
+pesto-pitch==1.0.0
+soundfile==0.12.1
+pyloudnorm==0.1.1
