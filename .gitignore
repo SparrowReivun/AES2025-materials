@@ -2,6 +2,7 @@
 __pycache__/
 src/sparrow5.4-crepe.py
 output/*
+data/Allegria_MendelssohnMovement1_STEMS/*
 
 .DS_Store
 
