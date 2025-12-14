@@ -1,6 +1,6 @@
 # A Scalable Two-Stage Automatic Mixing System
 
-This repository contains the source code for **Stage 1** of the "Scalable Two-Stage Automatic Mixing System," as presented at **AES 2025**.
+This repository contains the source code for **Stage 1**,auto level balance of the "Scalable Two-Stage Automatic Mixing System," as presented at **AES 2025**.
 
 The system addresses the scalability bottleneck in Deep Learning (DL) mixing. While end-to-end DL models often fail on real-world sessions (60–100+ tracks), our hybrid approach combines robust signal processing with neural style transfer to achieve high-fidelity mixes at scale with unlimited number of un-predefined track.
 
